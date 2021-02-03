@@ -1,6 +1,6 @@
 import json
 import logging
-from urllib.parse import urlparse
+from urlparse import urlparse
 from logging.handlers import HTTPHandler
 
 
